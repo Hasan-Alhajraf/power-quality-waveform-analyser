@@ -1,0 +1,29 @@
+Power Quality Waveform Analyser Results
+======================================
+
+Phase A
+RMS Voltage: 229.81 V
+Peak-to-Peak Voltage: 650.00 V
+DC Offset: -0.000000 V
+Clipped Samples: 20
+Compliance: COMPLIANT
+
+Phase B
+RMS Voltage: 229.81 V
+Peak-to-Peak Voltage: 649.86 V
+DC Offset: 0.000000 V
+Clipped Samples: 20
+Compliance: COMPLIANT
+
+Phase C
+RMS Voltage: 229.81 V
+Peak-to-Peak Voltage: 649.86 V
+DC Offset: -0.000000 V
+Clipped Samples: 20
+Compliance: COMPLIANT
+
+Overall Results
+Total Clipped Samples: 20
+Frequency Range: 50.000 Hz to 50.048 Hz
+Power Factor Range: 0.950 to 0.962
+THD Range: 2.00% to 2.18%
